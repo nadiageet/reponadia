@@ -1,26 +1,15 @@
-
+#reponadia
 #Eclipse
 
-
-
 .classpath
-
 .projet
-
 .settings/
 
-
-
 #Mac
-
 .DS_Store
 
-
-
 #Maven
-
 log/
-
 target/
 
 
